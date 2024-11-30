@@ -93,11 +93,11 @@ Insertion, search, and deletion running time (reversed):
 Document the source of your dataset and any modifications you made to it. Describe the results of your analysis and 
 how it compares to the theoretical performance of the hash table operations.
 
-Dataset Source: // FINISH ME
+Dataset Source: https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks/data
 
-Dataset Modifications ("None" if unchanged): // FINISH ME
+Dataset Modifications ("None" if unchanged): Removed Rows that had missing data within the columns.
 
-Result Analysis: // FINISH ME
+Result Analysis: Theoretical performance of insertion, search, and deletion are O(1). Our results are ... .
 
 ## Submission:
 
