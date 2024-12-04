@@ -1,0 +1,18 @@
+Average Time Elapsed For Insert of a Sorted List 
+Runtime: 413841.6, number of lines:200
+Average Time Elapsed For Search of a Sorted List 
+Runtime: 71275.0, number of lines:200
+Average Time Elapsed For Deletion of a Sorted List 
+Runtime: 43125.0, number of lines:200
+Average Time Elapsed For Insert of a Shuffled List 
+Runtime: 79858.2, number of lines:200
+Average Time Elapsed For Search of a Shuffled List 
+Runtime: 55175.0, number of lines:200
+Average Time Elapsed For Deletion of a Shuffled List 
+Runtime: 69541.0, number of lines:200
+Average Time Elapsed For Insert of a Reversed List 
+Runtime: 89858.2, number of lines:200
+Average Time Elapsed For Search of a Reversed List 
+Runtime: 52716.6, number of lines:200
+Average Time Elapsed For Deletion of a Reversed List 
+Runtime: 14125.0, number of lines:200
