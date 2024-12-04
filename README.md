@@ -82,18 +82,17 @@ it to this repository.
 
 Insertion, search, and deletion running time (already sorted):
 
-<img width="362" alt="image" src="https://github.com/user-attachments/assets/1d8ad4e4-58fd-4557-9f75-24cf721d549c">
-
-
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/fdff0609-b2ce-473d-8ac3-0d99f626af73">
 
 Insertion, search, and deletion running time (shuffled):
 
-<img width="362" alt="image" src="https://github.com/user-attachments/assets/dd7fa542-452c-4285-ab39-507fd5a07c1a">
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/d82188a7-c1a9-4e2e-9237-e37319c05325">
+
 
 
 Insertion, search, and deletion running time (reversed):
 
-<img width="362" alt="image" src="https://github.com/user-attachments/assets/8a85aa38-57e8-4ef7-b2c9-5cb91543f687">
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/22fedd1b-a945-4eb6-859d-5a4e00e76ae0">
 
 
 ## 5. **Document your Dataset and Results**
