@@ -82,12 +82,19 @@ it to this repository.
 
 Insertion, search, and deletion running time (already sorted):
 
-![Firefly picture of a cat 86147](https://github.com/user-attachments/assets/8b2d008e-3011-4979-97b8-fa2e9886a01a)
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/1d8ad4e4-58fd-4557-9f75-24cf721d549c">
+
 
 
 Insertion, search, and deletion running time (shuffled):
 
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/dd7fa542-452c-4285-ab39-507fd5a07c1a">
+
+
 Insertion, search, and deletion running time (reversed):
+
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/8a85aa38-57e8-4ef7-b2c9-5cb91543f687">
+
 
 ## 5. **Document your Dataset and Results**
 Document the source of your dataset and any modifications you made to it. Describe the results of your analysis and 
@@ -97,7 +104,7 @@ Dataset Source: https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks/data
 
 Dataset Modifications ("None" if unchanged): Removed Rows that had missing data within the columns.
 
-Result Analysis: Theoretical performance of insertion, search, and deletion are O(1). Our results are ... .
+Result Analysis: The theoretical performance of insertion, search, and deletion is O(1). Therefore, as n increases our time should grow linearly because, each operation, insert, search, and deletion is applied to each element in the list ( n * O(n) = n). This, for the most part, was seen in our graphs, albeit not perfectly linear. This is understandable because our results are not averaged over many attempts, only five. There was one exception, the insertion time for the already sorted list, which saw significantly higher runtimes than the respective search and deletion.
 
 ## Submission:
 
