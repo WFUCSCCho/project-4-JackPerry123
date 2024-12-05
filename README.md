@@ -101,7 +101,7 @@ how it compares to the theoretical performance of the hash table operations.
 
 Dataset Source: https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks/data
 
-Dataset Modifications ("None" if unchanged): Removed Rows that had missing data within the columns.
+Dataset Modifications ("None" if unchanged): Removed Rows that had missing data within the comma separated values.
 
 Result Analysis: The theoretical performance of insertion, search, and deletion is O(1). Therefore, as n increases our time should grow linearly because, each operation, insert, search, and deletion is applied to each element in the list ( n * O(n) = n). This, for the most part, was seen in our graphs, albeit not perfectly linear. This is understandable because our results are not averaged over many attempts, only five. There was one exception, the insertion time for the already sorted list, which saw significantly higher runtimes than the respective search and deletion.
 
